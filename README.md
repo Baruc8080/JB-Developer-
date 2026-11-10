@@ -1,30 +1,40 @@
 💜 JB DEVELOPER
 
-<div align="center">SOFTWARE ENGINEERING · DATA SCIENCE · CYBERSECURITY
+<div align="center">
 
-Building technology. Exploring intelligence. Engineering security.
+# 💜 JB DEVELOPER
 
-""GitHub" (https://img.shields.io/badge/GitHub-JB_Developer-8B5CF6?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/jbdeveloper)
-""Focus" (https://img.shields.io/badge/FOCUS-TECHNOLOGY-6D28D9?style=for-the-badge)" (https://github.com/jbdeveloper)
-""Location" (https://img.shields.io/badge/LOCATION-MEXICO-A78BFA?style=for-the-badge)" (https://github.com/jbdeveloper)
+### SOFTWARE ENGINEERING · DATA SCIENCE · CYBERSECURITY
 
-</div>---
+**Building technology. Exploring intelligence. Engineering security.**
 
-01. ABOUT ME | SOBRE MÍ
+[![GitHub](https://img.shields.io/badge/GitHub-JB_Developer-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbdeveloper)
 
-🇬🇧 English
+[![Focus](https://img.shields.io/badge/FOCUS-TECHNOLOGY-6D28D9?style=for-the-badge)](https://github.com/jbdeveloper)
+
+[![Location](https://img.shields.io/badge/LOCATION-MEXICO-A78BFA?style=for-the-badge)](https://github.com/jbdeveloper)
+
+</div>
+
+---
+
+## 01. ABOUT ME | SOBRE MÍ
+
+### 🇬🇧 English
 
 I'm a Software Developer with professional experience in software development, web applications, database technologies, and technical problem-solving.
 
-I'm currently pursuing a degree in Data Science, continuously expanding my knowledge in software engineering, machine learning, artificial intelligence, and cybersecurity.
+I'm currently pursuing a degree in **Data Science**, continuously expanding my knowledge in software engineering, machine learning, artificial intelligence, and cybersecurity.
 
-My interests lie at the intersection of software development, intelligent systems, and information security. I'm particularly interested in Application Security and AI Security.
+My interests lie at the intersection of software development, intelligent systems, and information security. I'm particularly interested in **Application Security and AI Security**.
 
-I enjoy building practical projects, understanding how systems work, and developing secure and scalable technology solutions.
-
-🇲🇽 Español
+### 🇲🇽 Español
 
 Soy desarrollador de software con experiencia profesional en desarrollo de aplicaciones web, tecnologías de bases de datos y resolución de problemas técnicos.
+
+Actualmente estudio **Ciencia de Datos**, mientras continúo fortaleciendo mis conocimientos en ingeniería de software, Machine Learning, inteligencia artificial y ciberseguridad.
+
+Me interesa especialmente la intersección entre el desarrollo de software, los sistemas inteligentes y la seguridad informática.
 
 Actualmente estudio Ciencia de Datos, mientras continúo fortaleciendo mis conocimientos en ingeniería de software, Machine Learning, inteligencia artificial y ciberseguridad.
 
