@@ -6,9 +6,9 @@
 
 **Building technology. Exploring intelligence. Engineering security.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-JB_Developer-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbdeveloper)
-[![Focus](https://img.shields.io/badge/FOCUS-TECHNOLOGY-6D28D9?style=for-the-badge)](https://github.com/jbdeveloper)
-[![Location](https://img.shields.io/badge/LOCATION-MEXICO-A78BFA?style=for-the-badge)](https://github.com/jbdeveloper)
+[![GitHub](https://img.shields.io/badge/GitHub-JB_Developer-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baruc8080)
+[![Focus](https://img.shields.io/badge/FOCUS-TECHNOLOGY-6D28D9?style=for-the-badge)](https://github.com/Baruc8080)
+[![Location](https://img.shields.io/badge/LOCATION-MEXICO-A78BFA?style=for-the-badge)]([https://github.com/jbdeveloper](https://github.com/Baruc8080))
 
 </div>
 
